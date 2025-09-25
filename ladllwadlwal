@@ -1,0 +1,7 @@
+#CARA O HOLA
+import random
+numero = random.randint(1, 2)
+if numero == 1:
+    print("Cara")
+else:
+    print("deleting system 32")
